@@ -1,3 +1,4 @@
+import Foundation
 import ObjectiveC.runtime;
 
 let Q = NSOperationQueue()
